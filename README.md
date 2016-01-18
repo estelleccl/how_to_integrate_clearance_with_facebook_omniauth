@@ -123,3 +123,6 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 1. https://github.com/thoughtbot/clearance
 2. https://github.com/estelleccl/how_to_use_clearance
 3. https://gist.github.com/stevebourne/2394427
+
+#Errors and solutions
+1. https://github.com/estelleccl/how_to_integrate_clearance_wtih_facebook/blob/master/errors_and_solutions.md
