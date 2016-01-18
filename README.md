@@ -117,7 +117,7 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 	``` 	
 		resources :users, only: [:show, :edit, :update, :destroy] 
 	``` 
-		*make sure there is no duplicates
+		*make sure there is no duplicates in the routes
 
 #References
 1. https://github.com/thoughtbot/clearance
