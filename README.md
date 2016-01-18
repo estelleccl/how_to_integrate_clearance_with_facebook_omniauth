@@ -105,7 +105,7 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 10. go to ``` db/migrate``` and find ```<timestamps_create_authentications.rb ``` and add the following code into the file:
 
 	```
-		.timestamps null: false
+		t.timestamps null: false
 	```
 
 11. run ``` bundle exec rake db:migrate  ``` in the terminal
