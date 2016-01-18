@@ -114,8 +114,8 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 
 12. append the following code in ``` config/routes.rb````
 
-	``` resources :users, only: [:show, :edit, :update, :destroy] ``` 
-	*make sure there is no duplicates
+	``` 	resources :users, only: [:show, :edit, :update, :destroy] ``` 
+		*make sure there is no duplicates
 
 #References
 1. https://github.com/thoughtbot/clearance
