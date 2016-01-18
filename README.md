@@ -23,6 +23,7 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 ```
 
 
+
 5. create ```authentication.rb```  file in ``` app\models ``` and paste the following code into the file:
 
 ```
