@@ -21,6 +21,8 @@ To setup clearance, visit https://github.com/estelleccl/how_to_use_clearance or 
 	 	  provider :facebook, 'APP_KEY', 'APP_SECRET'
 		end
 	```
+	*replace 'APP_KEY' and 'APP_SECRET' with your own keys which you get in facebook
+	
 5. create ```authentication.rb```  file in ``` app\models ``` and paste the following code into the file:
 
 	```
