@@ -28,3 +28,7 @@
 
 	Solution:
 		``` add ``` user_id ``` column to authentications table ```
+7. <b><i>Validation Failed. User Must Exist</i></b>
+
+	Solution:
+		``` in ```user.rb```(model file), add ```optional: true``` option at the back of ``` belongs_to :user ``` association ```
